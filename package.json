@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "crypto-js": "^3.1.9-1",
     "express": "^4.16.4",
